@@ -1047,6 +1047,8 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .client-block {
+  max-height: 70px;
+  max-width: 150px;
   text-align: center;
   padding: 5px 0;
   margin-bottom: 30px;
@@ -1302,7 +1304,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-2 .skill-percentage {
-  width: 65%;
+  width: 90%;
 }
 
 .skills-second-style .skill-container.skill-3 .skill-percentage {
@@ -1314,15 +1316,15 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .skills-second-style .skill-container.skill-5 .skill-percentage {
-  width: 95%;
+  width: 80%;
 }
 
 .skills-second-style .skill-container.skill-6 .skill-percentage {
-  width: 85%;
+  width: 75%;
 }
 
 .skills-second-style .skill-container.skill-7 .skill-percentage {
-  width: 100%;
+  width: 70%;
 }
 
 .skills-second-style .skill-container.skill-8 .skill-percentage {
